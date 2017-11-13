@@ -13,8 +13,8 @@ def key_for_min_value(backpacking)
   backpacking.each do |key, value|
     if key = 0
       return nil
-    else
-      
+    else 
+
     end
   end
 end

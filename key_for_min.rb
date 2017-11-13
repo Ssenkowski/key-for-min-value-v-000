@@ -9,6 +9,7 @@ pants: 4,
 multi_tool: 1,
 food: 10,
 }
+
 def key_for_min_value(backpacking)
   backpacking.collect do |key, value|
   end

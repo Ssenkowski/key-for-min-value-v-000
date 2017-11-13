@@ -10,7 +10,6 @@ multi_tool: 1,
 food: 10,
 }
 def key_for_min_value(backpacking)
-  h.default
   backpacking.collect do |key, value|
   end
 end

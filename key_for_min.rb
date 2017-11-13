@@ -12,7 +12,7 @@ food: 10,
 def key_for_min_value(backpacking)
   sieve = []
   backpacking.each do |key, value|
-    sieve << "key" + " value"
+    sieve << key + value
   end
   sieve
 end

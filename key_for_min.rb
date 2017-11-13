@@ -10,9 +10,7 @@ multi_tool: 1,
 food: 10,
 }
 def key_for_min_value(backpacking)
-  sieve = []
   backpacking.collect do |key|
-    if value 
+    if value
   end
-  sieve
 end

@@ -11,6 +11,6 @@ food: 10,
 }
 def key_for_min_value(backpacking)
   backpacking.collect do |key, value|
-    return key
+     key
   end
 end

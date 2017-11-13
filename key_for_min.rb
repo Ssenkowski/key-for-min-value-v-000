@@ -14,4 +14,5 @@ def key_for_min_value(backpacking)
   backpacking.each do |key, value|
     sieve << "key" + " value"
   end
+  sieve
 end

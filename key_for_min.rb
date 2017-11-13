@@ -10,7 +10,7 @@ multi_tool: 1,
 food: 10,
 }
 def key_for_min_value(backpacking)
-  backpacking.each do |key, value|
+  backpacking.each do |a, b|
     if key = 0
       return nil
     else

@@ -3,7 +3,7 @@
 backpacking = {
 towel: 0.5
 tent: 10
-water_filter: .5
+water_filter: 1
 shirts: 2
 pants: 4
 multi_tool: 1

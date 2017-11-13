@@ -9,6 +9,12 @@ pants: 4
 multi_tool: 1
 food: 10
 }
-def key_for_min_value(name_hash)
-
+def key_for_min_value(backpacking)
+  backpacking.each do |key, value|
+    if key = 0
+      return nil
+    else
+      
+    end
+  end
 end
